@@ -1,0 +1,31 @@
+runtime: php  # language of the app
+env: flex     # let app engine know we use flexible environment
+
+runtime_config:
+ document_root: public   #folder where index.php is
+
+# Ensure we skip ".env", which is only for local development
+skip_files:
+ - .env #we want to skip this to make sure we don’t mess stuff up on the server
+
+env_variables:
+ # Put production environment variables here.
+ APP_ENV: production   # or production
+ APP_DEBUG : false # or false 
+ APP_KEY: base64:wanr+6W4mLH6E9RMV1G5IykR0AXiv9KKuHB9ly7daPQ= 
+#go to generate app key paragraf in this tutorial
+
+ CACHE_DRIVER: database 
+# instead of putting the cache in the database I recommend using redis
+ SESSION_DRIVER: database #or file since both work
+
+ APP_LOG: daily
+ APP_TIMEZONE: UTC #your timezone of choice
+
+
+# follow the part of the tutorial on setting up your SQL database
+ DB_CONNECTION: sqlite
+
+ LOG_DELETE:  true # this is a parameter added by us in the project .env file. You can add here any setting you would add to your .env file
+
+

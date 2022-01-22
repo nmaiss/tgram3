@@ -1,0 +1,74 @@
+[22-Jan-2022 02:26:48 UTC] Enabled PHP logging
+[22-Jan-2022 02:26:48 UTC] Enabled PHP logging
+Logger:         	MadelineProto
+Logger:         	Copyright (C) 2016-2020 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Server:         	Starting IPC server /home/nicolas/LaravelProjects/Tgram2/public/session.madeline (process)
+ProcessRunner:  	Starting process with '/usr/bin/php' '-dhtml_errors=0' '-ddisplay_errors=0' '-dlog_errors=1' '/home/nicolas/LaravelProjects/Tgram2/vendor/danog/madelineproto/src/danog/MadelineProto/Ipc/Runner/entry.php' 'madeline-ipc' '/home/nicolas/LaravelProjects/Tgram2/public/session.madeline' '276569831'
+Serialization:  	MadelineProto is starting, please wait...
+Serialization:  	MadelineProto is starting, please wait...
+Serialization:  	Connected to IPC socket!
+Server:         	IPC server started successfully!
+API:            	Shutting down MadelineProto (danog\MadelineProto\API)
+API:            	Prompting final serialization...
+API:            	Done final serialization!
+ProcessRunner:  	Got final message from worker: 
+ProcessRunner:  	Got final message from worker: 
+[22-Jan-2022 02:27:08 UTC] Enabled PHP logging
+[22-Jan-2022 02:27:08 UTC] Enabled PHP logging
+Logger:         	MadelineProto
+Logger:         	Copyright (C) 2016-2020 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+API:            	Shutting down MadelineProto (danog\MadelineProto\API)
+API:            	Prompting final serialization...
+SessionPaths:   	Waiting for exclusive lock of /home/nicolas/LaravelProjects/Tgram2/public/session2.madeline.safe.php.lock...
+SessionPaths:   	Got exclusive lock of /home/nicolas/LaravelProjects/Tgram2/public/session2.madeline.safe.php.lock...
+APIWrapper:     	Saved session!
+API:            	Done final serialization!
+[22-Jan-2022 02:27:14 UTC] Enabled PHP logging
+[22-Jan-2022 02:27:14 UTC] Enabled PHP logging
+Logger:         	MadelineProto
+Logger:         	Copyright (C) 2016-2020 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	MadelineProto is starting, please wait...
+Serialization:  	Connected to IPC socket!
+API:            	Shutting down MadelineProto (danog\MadelineProto\API)
+API:            	Prompting final serialization...
+API:            	Done final serialization!
+[22-Jan-2022 02:28:26 UTC] Enabled PHP logging
+[22-Jan-2022 02:28:26 UTC] Enabled PHP logging
+Logger:         	MadelineProto
+Logger:         	Copyright (C) 2016-2020 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	MadelineProto is starting, please wait...
+Serialization:  	Connected to IPC socket!
+API:            	Shutting down MadelineProto (danog\MadelineProto\API)
+API:            	Prompting final serialization...
+API:            	Done final serialization!
+[22-Jan-2022 02:29:43 UTC] Enabled PHP logging
+[22-Jan-2022 02:29:43 UTC] Enabled PHP logging
+Logger:         	MadelineProto
+Logger:         	Copyright (C) 2016-2020 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	MadelineProto is starting, please wait...
+Serialization:  	Connected to IPC socket!
+API:            	Shutting down MadelineProto (danog\MadelineProto\API)
+API:            	Prompting final serialization...
+API:            	Done final serialization!
+[22-Jan-2022 02:30:41 UTC] Enabled PHP logging
+[22-Jan-2022 02:30:41 UTC] Enabled PHP logging
+Logger:         	MadelineProto
+Logger:         	Copyright (C) 2016-2020 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	MadelineProto is starting, please wait...
+Serialization:  	Connected to IPC socket!
+Exception:      	Invalid constructor provided: chatPhotoEmpty in ExitFailure.php:48
+API:            	Shutting down MadelineProto (danog\MadelineProto\API)
+API:            	Prompting final serialization...
+API:            	Done final serialization!

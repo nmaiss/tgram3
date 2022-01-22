@@ -72,3 +72,391 @@ Session, nicolas:        	Can't garbage collect updates.getDifference sent 998 s
 Session, nicolas:        	Can't garbage collect updates.getDifference sent 998 seconds ago, no response has been received or it wasn't yet handled!
 Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 997 seconds ago, no response has been received or it wasn't yet handled!
 Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 999 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 999 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 998 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1000 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1000 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 999 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1001 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1001 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1000 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1002 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1002 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1001 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1003 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1003 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1002 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1004 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1004 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1003 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1005 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1005 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1004 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1006 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1006 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1005 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+SessionPaths, 5057468842:   	Waiting for exclusive lock of /home/nicolas/LaravelProjects/Tgram2/public/session.madeline.safe.php.lock...
+SessionPaths, 5057468842:   	Got exclusive lock of /home/nicolas/LaravelProjects/Tgram2/public/session.madeline.safe.php.lock...
+SessionPaths, 5057468842:   	Waiting for exclusive lock of /home/nicolas/LaravelProjects/Tgram2/public/session.madeline.lightState.php.lock...
+SessionPaths, 5057468842:   	Got exclusive lock of /home/nicolas/LaravelProjects/Tgram2/public/session.madeline.lightState.php.lock...
+APIWrapper, 5057468842:     	Saved session!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1007 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1007 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1006 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+SessionPaths, nicolas:   	Waiting for exclusive lock of /home/nicolas/LaravelProjects/Tgram2/session.madeline.safe.php.lock...
+SessionPaths, nicolas:   	Got exclusive lock of /home/nicolas/LaravelProjects/Tgram2/session.madeline.safe.php.lock...
+SessionPaths, nicolas:   	Waiting for exclusive lock of /home/nicolas/LaravelProjects/Tgram2/session.madeline.lightState.php.lock...
+SessionPaths, nicolas:   	Got exclusive lock of /home/nicolas/LaravelProjects/Tgram2/session.madeline.lightState.php.lock...
+APIWrapper, nicolas:     	Saved session!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1008 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1008 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1007 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1009 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1009 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1008 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1010 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1010 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1009 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1011 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1011 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1010 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1012 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1012 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1011 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1013 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1013 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1012 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1014 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1014 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1013 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1015 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1015 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1014 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1016 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1016 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1015 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1017 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1017 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1016 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1018 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1018 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1017 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1019 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1019 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1018 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1020 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1020 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1019 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1021 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1021 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1020 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1022 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1022 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1021 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1023 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1023 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1022 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1024 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1024 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1023 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1025 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1025 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1024 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+SessionPaths, 5057468842:   	Waiting for exclusive lock of /home/nicolas/LaravelProjects/Tgram2/public/session.madeline.safe.php.lock...
+SessionPaths, 5057468842:   	Got exclusive lock of /home/nicolas/LaravelProjects/Tgram2/public/session.madeline.safe.php.lock...
+SessionPaths, 5057468842:   	Waiting for exclusive lock of /home/nicolas/LaravelProjects/Tgram2/public/session.madeline.lightState.php.lock...
+SessionPaths, 5057468842:   	Got exclusive lock of /home/nicolas/LaravelProjects/Tgram2/public/session.madeline.lightState.php.lock...
+APIWrapper, 5057468842:     	Saved session!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1026 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1026 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1025 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1027 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1027 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1026 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1028 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1028 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1027 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1029 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1029 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1028 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1030 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1030 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1029 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1031 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1031 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1030 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1032 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1032 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1031 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1033 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1033 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1032 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1034 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1034 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1033 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1035 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1035 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1034 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1036 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1036 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1035 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+SessionPaths, 5057468842:   	Waiting for exclusive lock of /home/nicolas/LaravelProjects/Tgram2/public/session.madeline.safe.php.lock...
+SessionPaths, 5057468842:   	Got exclusive lock of /home/nicolas/LaravelProjects/Tgram2/public/session.madeline.safe.php.lock...
+SessionPaths, 5057468842:   	Waiting for exclusive lock of /home/nicolas/LaravelProjects/Tgram2/public/session.madeline.lightState.php.lock...
+SessionPaths, 5057468842:   	Got exclusive lock of /home/nicolas/LaravelProjects/Tgram2/public/session.madeline.lightState.php.lock...
+APIWrapper, 5057468842:     	Saved session!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1037 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1037 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1036 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+SessionPaths, nicolas:   	Waiting for exclusive lock of /home/nicolas/LaravelProjects/Tgram2/session.madeline.safe.php.lock...
+SessionPaths, nicolas:   	Got exclusive lock of /home/nicolas/LaravelProjects/Tgram2/session.madeline.safe.php.lock...
+SessionPaths, nicolas:   	Waiting for exclusive lock of /home/nicolas/LaravelProjects/Tgram2/session.madeline.lightState.php.lock...
+SessionPaths, nicolas:   	Got exclusive lock of /home/nicolas/LaravelProjects/Tgram2/session.madeline.lightState.php.lock...
+APIWrapper, nicolas:     	Saved session!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1038 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1038 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1037 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1039 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1039 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1038 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1040 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1040 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1039 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1041 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1041 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1040 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1042 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1042 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1041 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1043 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1043 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1042 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1044 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1044 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1043 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1045 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1045 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1044 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1046 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1046 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1045 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1047 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1047 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1046 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1048 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1048 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1047 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1049 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1049 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1048 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1050 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1050 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1049 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1051 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1051 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1050 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1052 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1052 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1051 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1053 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1053 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1052 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1054 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1054 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1053 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1055 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1055 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1054 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+SessionPaths, 5057468842:   	Waiting for exclusive lock of /home/nicolas/LaravelProjects/Tgram2/public/session.madeline.safe.php.lock...
+SessionPaths, 5057468842:   	Got exclusive lock of /home/nicolas/LaravelProjects/Tgram2/public/session.madeline.safe.php.lock...
+SessionPaths, 5057468842:   	Waiting for exclusive lock of /home/nicolas/LaravelProjects/Tgram2/public/session.madeline.lightState.php.lock...
+SessionPaths, 5057468842:   	Got exclusive lock of /home/nicolas/LaravelProjects/Tgram2/public/session.madeline.lightState.php.lock...
+APIWrapper, 5057468842:     	Saved session!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1056 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1056 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1055 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1057 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1057 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1056 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1058 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1058 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1057 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1059 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1059 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1058 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1060 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1060 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1059 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1061 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1061 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1060 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1062 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1062 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1061 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1063 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1063 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1062 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1064 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1064 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1063 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1065 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1065 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1064 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1066 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1066 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1065 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+SessionPaths, 5057468842:   	Waiting for exclusive lock of /home/nicolas/LaravelProjects/Tgram2/public/session.madeline.safe.php.lock...
+SessionPaths, 5057468842:   	Got exclusive lock of /home/nicolas/LaravelProjects/Tgram2/public/session.madeline.safe.php.lock...
+SessionPaths, 5057468842:   	Waiting for exclusive lock of /home/nicolas/LaravelProjects/Tgram2/public/session.madeline.lightState.php.lock...
+SessionPaths, 5057468842:   	Got exclusive lock of /home/nicolas/LaravelProjects/Tgram2/public/session.madeline.lightState.php.lock...
+APIWrapper, 5057468842:     	Saved session!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1067 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1067 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1066 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+SessionPaths, nicolas:   	Waiting for exclusive lock of /home/nicolas/LaravelProjects/Tgram2/session.madeline.safe.php.lock...
+SessionPaths, nicolas:   	Got exclusive lock of /home/nicolas/LaravelProjects/Tgram2/session.madeline.safe.php.lock...
+SessionPaths, nicolas:   	Waiting for exclusive lock of /home/nicolas/LaravelProjects/Tgram2/session.madeline.lightState.php.lock...
+SessionPaths, nicolas:   	Got exclusive lock of /home/nicolas/LaravelProjects/Tgram2/session.madeline.lightState.php.lock...
+APIWrapper, nicolas:     	Saved session!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1068 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1068 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1067 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1069 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1069 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1068 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1070 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1070 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1069 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1071 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1071 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1070 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1072 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1072 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1071 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1073 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1073 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1072 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1074 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1074 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1073 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1075 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1075 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1074 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1076 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1076 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1075 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1077 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1077 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1076 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1078 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1078 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1077 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1079 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1079 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1078 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1080 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1080 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1079 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1081 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1081 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1080 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1082 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1082 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1081 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1083 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1083 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1082 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1084 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1084 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1083 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1085 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 1085 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 1084 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left

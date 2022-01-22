@@ -84,7 +84,7 @@
     <footer class="text-center text-lg-start text-muted">
       <!-- Section: Social media -->
       <div class="text-center p-4 mt-5" style="background-color: rgba(0, 0, 0, 0.01);">
-        Développé par <a target="_blank" class="text-reset fw-bold" href="https://t.me/decentra">@nicolas</a>. Le code du site est <a target="_blank" class="fw-bold" href="https://github.com/nmaiss/Tgram">ouvert</a>.
+        Développé par <a target="_blank" class="text-reset fw-bold" href="https://t.me/niketh">@nicolas</a>. Le code du site est <a target="_blank" class="fw-bold" href="https://github.com/nmaiss/tgram3">ouvert</a>.
       </div>
       <!-- Copyright -->
     </footer>

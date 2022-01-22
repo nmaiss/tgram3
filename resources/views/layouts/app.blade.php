@@ -27,6 +27,7 @@
     <style>
         body {
             font-family: 'Nunito';
+            background-color: white;
         }
 
         .channels-categories{

@@ -6,7 +6,7 @@ Ce site est un annuaire qui permet aux utilisateurs de lister et de trouver des 
 
 Vous devez au préalable avoir installé [Laravel](https://www.google.com/search?q=laravel+github&oq=laravel+github&aqs=chrome..69i57j69i60.1944j0j9&sourceid=chrome&ie=UTF-8).
 
-1. Clonez ce dépôt : ```https://github.com/nmaiss/Tgram.git```
+1. Clonez ce dépôt : ```https://github.com/nmaiss/tgram3.git```
 2. Installez les dépendances : ```composer install```
 3. Créez le fichier ```.env``` et configurez-y la base de données : ```mv .env.example .env```
 4. Générez une clé : ```php artisan key:generate```

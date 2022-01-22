@@ -71,7 +71,7 @@ class ChannelController extends Controller
             $query = $request->get('query');
             if($query != '')
             {
-              $data = "";
+              $data = Channel::all();
                   /*$data = Channel::where('valid',  '1')
                     ->where(function($q) use ($query){
                         return $q->where('name', 'like', '%'.$query.'%')
@@ -85,7 +85,7 @@ class ChannelController extends Controller
             }
             else
             {
-                $data = "";
+                $data = Channel::all();
             }
             $total_row = $data->count();
 

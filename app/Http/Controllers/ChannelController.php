@@ -46,9 +46,10 @@ class ChannelController extends Controller
         $channel->url = $channel_url;
         //$channel->name = $messages['chats']['0']['title'];
         $channel->proposed_description = $req->input('description');
-        $channel->name = "";
-        $channel->description = "";
-        $channel->members = "";
+        $channel->name = " ";
+        $channel->description = " ";
+        $channel->members = " ";
+        $channel->verified = "0";
         //$channel->description = $messages['full_chat']['about'];
         //$channel->category = $req->input('category');
         //$channel->members = $messages['full_chat']['participants_count'];

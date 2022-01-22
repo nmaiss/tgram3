@@ -17,11 +17,16 @@ class AdminController extends Controller
     }
 
     public function accept(Request $req){
-        $channel = Channel::find($req->input('id'));
+      $channel = Channel::find($req->input('id'));
+        $file = $req->file('image');
+        $destinationPath = 'channels';
+        $file->move($destinationPath, $channel->url.'.jpeg');
         $channel->valid = true;
-        $channel->quality = $req->input('quality') == null ? false : true;
+        $channel->quality = true;
         $channel->description = $req->input('description');
         $channel->name = $req->input('name');
+        $channel->members = $req->input('members');
+
         $channel->save();
 
         return redirect()->route('admin');

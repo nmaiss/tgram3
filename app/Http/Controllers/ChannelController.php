@@ -17,7 +17,7 @@ class ChannelController extends Controller
     public function submit(Request $req){
         $category = Category::where('url', $req->input('category'))->first();
 
-        $MadelineProto = new \danog\MadelineProto\API('session.madeline');
+        //$/MadelineProto = new \danog\MadelineProto\API('session.madeline');
         //$MadelineProto->start();
         //$me = $MadelineProto->channels->getFullChannel(['channel' => "@durov",]);
         $validatedData = $req->validate([
@@ -35,30 +35,35 @@ class ChannelController extends Controller
         if ($channel_url == false){
             $channel_url = $channel_url2;
         }
-        try {
-            $messages = $MadelineProto->channels->getFullChannel(['channel' => "@" . $channel_url,]);
+        /*try {
+            //$channelid = $id = yield $MadelineProto->getID("@" . $channel_url);
+            //$messages = $MadelineProto->getFullInfo("@" . $channel_url);
+            $messages = $MadelineProto->channels->getFullChannel(['channel' => "@" . $channel_url,], ['async' => false]);
         } catch (\Exception $e){
             return redirect('/add')->with('error', "Il y a eu un problème... Vérifiez bien l'url du canal. ");
-        }
+        }*/
         $channel = new Channel();
         $channel->url = $channel_url;
-        $channel->name = $messages['chats']['0']['title'];
+        //$channel->name = $messages['chats']['0']['title'];
         $channel->proposed_description = $req->input('description');
-        $channel->description = $messages['full_chat']['about'];
+        $channel->name = "";
+        $channel->description = "";
+        $channel->members = "";
+        //$channel->description = $messages['full_chat']['about'];
         //$channel->category = $req->input('category');
-        $channel->members = $messages['full_chat']['participants_count'];
-        $channel->verified = $messages['chats']['0']['verified'];
+        //$channel->members = $messages['full_chat']['participants_count'];
+        //$channel->verified = $messages['chats']['0']['verified'];
         $channel->valid = '0';
         //$channel->save();
 
         $category->channels()->save($channel);
 
-        try {
+        /*try {
             $info = $MadelineProto->getPropicInfo('t.me/' . $channel_url);
             $MadelineProto->downloadToFile($info, 'channels/' . $channel_url . ".jpeg");
         }catch (\Exception $e){
           return redirect('/add')->with('success', 'Le canal va bientôt être ajouté.');
-        }
+        }*/
 
         return redirect('/add')->with('success', 'Le canal va bientôt être ajouté.');
     }

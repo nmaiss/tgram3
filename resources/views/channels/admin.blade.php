@@ -71,15 +71,21 @@
                 @csrf
 
                 <label for="name">
-                    <h1><input value="{{$el->name}}" type="text" name="name" id="name" class="form-control"></h1>
+                    <h1><input value="{{$el->name}}" type="text" name="name" id="name" placeholder="name" class="form-control"></h1>
                 </label>
                 <a href="https://t.me/"><h5>t.me/{{ $el->url }}</h5></a>
                 <label for="description">
-                    <textarea name="description" id="description" class="form-control" style="height: 400px; width: 100%"; >{{$el->description}}</textarea>
+                    <textarea name="description" id="description" class="form-control" placeholder="description" style="height: 200px; width: 100%"; >{{$el->description}}</textarea>
                 </label>
 
-                <input type="checkbox" name="quality" value="true" class="form-control">
-                <p>{{ $el->members }} membres</p>
+                <label for="members">
+                    <h1><input value="{{$el->members}}" type="text" name="members" id="members" placeholder="members" class="form-control"></h1>
+                </label>
+
+                <div class="col-md-6">
+                    <input id="image" name="image" type="file" class="form-control" required>
+                </div>
+
                 <p><small>{{ $el->created_at }}</small></p>
                 <input type="hidden" value="{{$el->id}}" name="id" id="id">
                 <a href="{{ route('reject-channel', $el->id) }}">Rejeter</a>

@@ -3709,3 +3709,57 @@ Session, nicolas:        	Can't garbage collect updates.getDifference sent 19062
 Session, nicolas:        	Can't garbage collect updates.getDifference sent 190620 seconds ago, no response has been received or it wasn't yet handled!
 Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 190619 seconds ago, no response has been received or it wasn't yet handled!
 Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 190621 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 190621 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 190620 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 190622 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 190622 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 190621 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+SessionPaths, 5057468842:   	Waiting for exclusive lock of /home/nicolas/LaravelProjects/Tgram2/public/session.madeline.safe.php.lock...
+SessionPaths, 5057468842:   	Got exclusive lock of /home/nicolas/LaravelProjects/Tgram2/public/session.madeline.safe.php.lock...
+SessionPaths, 5057468842:   	Waiting for exclusive lock of /home/nicolas/LaravelProjects/Tgram2/public/session.madeline.lightState.php.lock...
+SessionPaths, 5057468842:   	Got exclusive lock of /home/nicolas/LaravelProjects/Tgram2/public/session.madeline.lightState.php.lock...
+APIWrapper, 5057468842:     	Saved session!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 190623 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 190623 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 190622 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 190624 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 190624 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 190623 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 190625 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 190625 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 190624 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 190626 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 190626 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 190625 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 190627 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 190627 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 190626 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 190628 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 190628 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 190627 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 190629 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 190629 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 190628 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+SessionPaths, 5057468842:   	Waiting for exclusive lock of /home/nicolas/LaravelProjects/Tgram2/public/session.madeline.safe.php.lock...
+SessionPaths, 5057468842:   	Got exclusive lock of /home/nicolas/LaravelProjects/Tgram2/public/session.madeline.safe.php.lock...
+SessionPaths, 5057468842:   	Waiting for exclusive lock of /home/nicolas/LaravelProjects/Tgram2/public/session.madeline.lightState.php.lock...
+SessionPaths, 5057468842:   	Got exclusive lock of /home/nicolas/LaravelProjects/Tgram2/public/session.madeline.lightState.php.lock...
+APIWrapper, 5057468842:     	Saved session!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 190630 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 190630 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 190629 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 190631 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getDifference sent 190631 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Can't garbage collect updates.getChannelDifference sent 190630 seconds ago, no response has been received or it wasn't yet handled!
+Session, nicolas:        	Garbage collected 0 outgoing messages, 3 left

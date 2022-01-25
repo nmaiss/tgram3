@@ -56,8 +56,10 @@ class ChannelController extends Controller
         //$channel->verified = $messages['chats']['0']['verified'];
         $channel->valid = '0';
         //$channel->save();
+        $channel->save();
 
-        $category->channels()->save($channel);
+        $category->channels()->associate($channel);
+        $category->save();
 
         /*try {
             $info = $MadelineProto->getPropicInfo('t.me/' . $channel_url);

@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('title')
-    Tgram – Catalogue de canaux Telegram francophones
+    Tgram – Annuaire de canaux Telegram francophones
 @endsection
 
 @section('description')Cette page liste les meilleures chaînes Telegram. Toutes les chaînes sont classées par catégories: trouvez une chaîne de votre choix ou ajoutez la vôtre.@endsection

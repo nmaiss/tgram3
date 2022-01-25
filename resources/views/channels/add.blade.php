@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('title')
-    Tgram - Ajouter un canal Telegram dans le catalogue
+    Tgram - Ajouter un canal Telegram dans l'annuaire 
 @endsection
 
 @section('content')
@@ -34,7 +34,7 @@
                     {{ session('error') }}
                 </div>
             @endif
-            <h5 class="pb-3 pt-2">Si vous n'avez pas trouvé votre canal dans le catalogue, utilisez le formulaire pour l'ajouter.</h5>
+            <h5 class="pb-3 pt-2">Si vous n'avez pas trouvé votre canal dans l'annuaire, utilisez le formulaire pour l'ajouter.</h5>
             <div class="form-add">
                 <div class="form-group row">
                     <label for="url" class="col-md-4 col-form-label">Adresse :</label>
